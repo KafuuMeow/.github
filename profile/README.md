@@ -1,5 +1,5 @@
 ## 你好 👋
-这里是KefuuMeow组织(~邪恶猫猫组织~)
+这里是KefuuMeow(~邪恶猫猫~)组织
 <!--
 
 **Here are some ideas to get you started:**
