@@ -1,12 +1,4 @@
-## 你好 👋
-这里是KefuuMeow(~邪恶猫猫~)组织
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Hello👿, Human
+We are evil cat team(👿🐱🐱) – here to stir up some playful trouble!
+## 🔮 About US
+- Team Members ：👿🐱([Kafuu Neko](https://github.com/KafuuNeko)), 🐶([hhyufan](https://github.com/hhyufan)), 🦊([YukiIsait](https://github.com/YukiIsait)), 🐟️([yuyuaqwq](https://github.com/yuyuaqwq)), 🍰([Shiratamakeki](https://github.com/JadeCake5)) .etc
